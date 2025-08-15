@@ -1,6 +1,6 @@
 # ¡Hola! Soy Leandro 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+Developper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mí
 
